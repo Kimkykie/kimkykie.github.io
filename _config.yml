@@ -2,8 +2,8 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo          # appears in the header and the HTML <title> tag
-author: Johnny Bravo     # appears in an HTML <meta> tag, as well as feed.xml
+title: Kim's Blog          # appears in the header and the HTML <title> tag
+author: Kim Kiragu    # appears in an HTML <meta> tag, as well as feed.xml
 description: >           # appears in an HTML <meta> tag, as well as feed.xml
   Hello 911 emergency, there's a handsome guy in my house!
   Oh wait a second, cancel that. It's only me.
@@ -11,7 +11,7 @@ slogan: Showtime!        # appears in the header, alongside the title
 avatar: /i/avatar.png    # appears as portrait in the header
 banner: /i/mountains.svg # appears as background in the header
 url: http://jekyllrb.com # used by plugins to generate feed.xml and sitemap.xml
-baseurl: /jekyll-solana  # prepended to all absolute filepaths
+baseurl: '' # prepended to all absolute filepaths
 repo: https://github.com//rlue.github.io # appears in footer
 
 # Objects listed here will appear in the main nav menu.
